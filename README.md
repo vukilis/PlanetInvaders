@@ -1,5 +1,4 @@
-# PlanetInvaders
-ProjectGame#1 | Unity
+# Planet Invaders
 --------------------------------------------------------------------------------
 #PATCH ALPHA v0.2
 GENERAL
