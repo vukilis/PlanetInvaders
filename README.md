@@ -1,6 +1,6 @@
-# Planet Invaders
+# PlanetInvaders
 --------------------------------------------------------------------------------
-#PATCH ALPHA v0.2
+# PATCH ALPHA v0.2
 GENERAL
 1. Menu keyboard controll
 2. Volume adjustment for music and efx
