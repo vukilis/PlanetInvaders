@@ -24,3 +24,21 @@ BACKGROUND MUSIC
 3. Improve sounds scripts
 4. New main menu song
 --------------------------------------------------------------------------------
+# PATCH ALPHA v0.3
+GENERAL
+1. Architecture x86 and x64
+2. Better resolution responsive
+3. Game icon
+4. Display Resolution Dialog
+5. splash logo
+6. Mouse cursor is hidden in game
+7. Cursos skin
+8. Fading between scenes
+9. Deleted Level 2 as "Insane mode"
+
+LIFE SYSTEM
+1. Fixed some errors in code
+
+SCORE SYSTEM
+1. New score system script
+2. In game over screen added: current score, high score and shots counter. Added reset score button
