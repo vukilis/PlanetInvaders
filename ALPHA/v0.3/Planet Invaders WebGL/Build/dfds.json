@@ -1,0 +1,17 @@
+{
+"companyName": "Vuk1lis Studio",
+"productName": "Planet Invaders",
+"productVersion": "0.3",
+"dataUrl": "dfds.data.unityweb",
+"wasmCodeUrl": "dfds.wasm.code.unityweb",
+"wasmFrameworkUrl": "dfds.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "dfds.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a4"
+}
